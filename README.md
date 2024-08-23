@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GazEcc.
 - 👀 I’m interested in becoming a better programmer.
-- 🌱 I’m currently learning to organise my projects better and focusing on sharpening up my PHP and MySQL skills.
-- 💞️ I’m looking to collaborate on tools and small projects. I'm not the best, but I do want to get better.
+- 🌱 I’m currently focusing on learning VueJS3.
+- 💞️ I’m looking to collaborate on tools and small projects. I'm quite adept at H5 C3 JS, jQuery, MySQL, PHP, and Python.
 - 📫 How to reach me - @GazEccleston on twitter or info@hackerspace.ie
 
 <!---
